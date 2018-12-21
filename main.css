@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: dimgray;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
