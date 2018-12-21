@@ -1,13 +1,39 @@
 * {
     box-sizing: border-box;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     background-color: dimgray;
+    
 }
 
 main {
     max-width: 1000px;
     margin: 0 auto;
     text-align: center;
+}
+
+form * {
+    margin: 10px auto;
+    display: block;
+    border-radius: 4px;
+    text-align: center;
+}
+
+form {
+    margin-top: 30px;
+}
+
+input {
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 20px;
 }
