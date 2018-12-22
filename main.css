@@ -37,3 +37,11 @@ h1 {
 h2 {
     font-size: 20px;
 }
+
+li {
+    list-style: none;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 5px;
+}
